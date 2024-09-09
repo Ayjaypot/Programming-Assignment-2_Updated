@@ -10,7 +10,9 @@ The output of the first problem should be saved as a .npy file
 
 For the 2nd problem an 10x10 array containing the squares of the first 100 positive integers should be created, and then after that a function to select and print the digits that are divisible by 3 from the array should be created as well.
 ![image](https://github.com/user-attachments/assets/a8dcc8cd-358c-4e81-8dc6-b0bb7a009718)
+
 in this code an array of the first 100 positive integers were created first before using a function to get the squares of those 100 numbers, it is then shaped into the desired 10x10 array. Next a code using the modulo function were used to find the numbers that are divisible by 3 after that the array of those numbers are then saved into a .npy file
+
 ![image](https://github.com/user-attachments/assets/153e28bc-2577-4410-aa6e-8f45f636ebbc)
 
 
